@@ -7,14 +7,12 @@
 - ⚡ Fun fact: Outside of software development, I'm big on riding bikes, hiking, and other activities in nature
 
 Here's a brief summary of my current GitHub Projects:
-- Bike Inventory Webpage (React Native, Node.JS, SQLite)
-- Bike Parking Map (JS, Google Maps API)
-- Weather App (React, National Weather Service API)
-- Bike Accident Reporting Webpage (React Native, Google Places API)
+- Bike Parts Inventory Webpage (React Native, Expo, Node.JS, SQLite)
+- Bike Parking Map (HTML,JS, Google Maps API)
 - Yahtzee Game (Java FX)
-- FAQ Chatbot (Python)
+- Wikipedia Article Suggestor (Python using Statistical NLP)
 
-Also, keep any eye out for future projects such as:
+Also, keep any eye out for future projects including the following:
 - ESP32 E-ink Weather Display
 - Meshtastic Node Devices
 - Fitness Tracking App specialized for individuals with PoTS
