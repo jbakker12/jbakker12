@@ -7,22 +7,16 @@
 - ⚡ Fun fact: Outside of software development, I'm big on riding bikes, hiking, and other activities in nature
 
 Here's a brief summary of my current GitHub Projects:
--Bike Inventory Webpage (React Native, Node.JS, SQLite)
--Bike Parking Map (JS, Google Maps API)
--Weather App (React, National Weather Service API)
--Bike Accident Reporting Webpage (React Native, Google Places API)
--Yahtzee Game (Java FX)
--FAQ Chatbot (Python)
+- Bike Inventory Webpage (React Native, Node.JS, SQLite)
+- Bike Parking Map (JS, Google Maps API)
+- Weather App (React, National Weather Service API)
+- Bike Accident Reporting Webpage (React Native, Google Places API)
+- Yahtzee Game (Java FX)
+- FAQ Chatbot (Python)
 
 Also, keep any eye out for future projects such as:
--ESP32 E-ink Weather Display
--Meshtastic Node Devices
--Fitness Tracking App specialized for individuals with PoTS
--Local Queer Events Calendar
--Queer Support Services Database
-
-
-<!---
-jbakker12/jbakker12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ESP32 E-ink Weather Display
+- Meshtastic Node Devices
+- Fitness Tracking App specialized for individuals with PoTS
+- Local Queer Events Calendar
+- Queer Support Services Database
