@@ -1,15 +1,17 @@
 # 💫 About Me:
 👋 Hi, I’m @jbakker12<br>
-👀 I’m interested in learning new coding languages, finding creative solutions to the world's problems, and doing tech projects for fun oustide of work and school
 <br>🌱 I’m in year 2 of 3 in Mohawk College's Software Development program.
 <br>🤝 I’m looking to collaborate on health care related products, databases for queer support services, and hobby projects with ESP32's and Meshtastic Devices
-<br>📫 How to reach me: jacob.bakker1@mohawkcollege.ca
-<br>😄 Pronouns: they/them<br>⚡ Fun fact: Outside of software development, I'm big on riding bikes, hiking, and other activities in nature
-<br>Here's a brief summary of my current GitHub Projects:<br><br>Bike Parts Inventory Webpage (React Native, Expo, Node.JS, SQLite)<br>Bike Parking Map (HTML,JS, Google Maps API)
-<br>Yahtzee Game (Java FX)
-<br>Wikipedia Article Suggestor (Python using Statistical NLP)
-<br>Communauto Ontario Comparison Calculators (HTML, JS, Bootstrap)
 
+<br>Here's a brief summary of my current GitHub Projects:
+<br>
+<ul>
+  <li>Bike Parts Inventory Webpage (React Native, Expo, Node.JS, SQLite)</li>
+  <li>Bike Parking Map (HTML,JS, Google Maps API)</li>
+  <li>Yahtzee Game (Java FX)</li>
+  <li>Wikipedia Article Suggestor (Python using Statistical NLP)</li>
+  <li>Communauto Ontario Comparison Calculators (HTML, JS, Bootstrap)</li>
+</ul>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jbakker12) 
