@@ -1,20 +1,19 @@
 # 💫 About Me:
 👋 Hi, I’m @jbakker12<br>
-<br> 🧑🏻‍🎓Studying Software Development at Mohawk College (Year 2 of 3)
-<br> jacob.bakker1@mohawkcollege.ca
+🧑🏻‍🎓Studying Software Development at Mohawk College (Year 2 of 3)
+jacob.bakker1@mohawkcollege.ca
 
-<br>🌱 Here's a brief summary of my current GitHub Projects:
-<br>
+🌱 Here's a brief summary of my current GitHub Projects:
+
 <ul>
   <li>Bike Parts Inventory Webpage (React Native, Expo, Node.JS, SQLite)</li>
   <li>Bike Parking Map (HTML,JS, Google Maps API)</li>
   <li>Yahtzee Game (Java FX)</li>
   <li>Wikipedia Article Suggestor (Python using Statistical NLP)</li>
 </ul>
-<br> ⏳Upcoming Projects:
+⏳Upcoming Projects:
 
 <ul>
-  <br>
   <li>Communauto Ontario Comparison Calculators (HTML, JS, Bootstrap)</li>
 </ul>
 
