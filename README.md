@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @jbakker12<br>
-<br>🧑🏻‍🎓Studying Software Development at Mohawk College (Year 2 of 3)
+<br> 🧑🏻‍🎓Studying Software Development at Mohawk College (Year 2 of 3)
+<br> jacob.bakker1@mohawkcollege.ca
 
 <br>🌱 Here's a brief summary of my current GitHub Projects:
 <br>
