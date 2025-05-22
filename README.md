@@ -1,9 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m @jbakker12<br>
-<br>🌱 I’m in year 2 of 3 in Mohawk College's Software Development program.
-<br>🤝 I’m looking to collaborate on health care related products, databases for queer support services, and hobby projects with ESP32's and Meshtastic Devices
+<br>🧑🏻‍🎓Studying Software Development at Mohawk College (Year 2 of 3)
 
-<br>Here's a brief summary of my current GitHub Projects:
+<br>🌱 Here's a brief summary of my current GitHub Projects:
 <br>
 <ul>
   <li>Bike Parts Inventory Webpage (React Native, Expo, Node.JS, SQLite)</li>
