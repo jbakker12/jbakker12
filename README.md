@@ -13,8 +13,8 @@
 </ul>
 <br> ⏳Upcoming Projects:
 
-
 <ul>
+  <br>
   <li>Communauto Ontario Comparison Calculators (HTML, JS, Bootstrap)</li>
 </ul>
 
