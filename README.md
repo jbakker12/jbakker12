@@ -10,6 +10,9 @@
   <li>Bike Parking Map (HTML,JS, Google Maps API)</li>
   <li>Yahtzee Game (Java FX)</li>
   <li>Wikipedia Article Suggestor (Python using Statistical NLP)</li>
+</ul>
+<br> Upcoming Projects
+<ul>
   <li>Communauto Ontario Comparison Calculators (HTML, JS, Bootstrap)</li>
 </ul>
 
