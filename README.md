@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I’m @jbakker12<br>
+# 👋 Hi, I’m @jbakker12
 🧑🏻‍🎓Studying Software Development at Mohawk College (Year 2 of 3)
 jacob.bakker1@mohawkcollege.ca
 
@@ -14,6 +13,7 @@ jacob.bakker1@mohawkcollege.ca
 ⏳Upcoming Projects:
 
 <ul>
+  
   <li>Communauto Ontario Comparison Calculators (HTML, JS, Bootstrap)</li>
 </ul>
 
