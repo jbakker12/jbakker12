@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Jake:
-🧑🏻‍🎓Studying <a href="https://www.mohawkcollege.ca/programs/technology/computer-systems-technology-software-development-559">Software Development</a> at Mohawk College (Year 2 of 3)
+🧑🏻‍🎓 Studying <a href="https://www.mohawkcollege.ca/programs/technology/computer-systems-technology-software-development-559">Software Development</a> at Mohawk College (Year 2 of 3)
 <br>📧 jacob.bakker1@mohawkcollege.ca
 
 🌱 Here's a brief summary of my current GitHub Projects:
@@ -10,7 +10,7 @@
   <li>Yahtzee Game (Java FX)</li>
   <li>Wikipedia Article Suggestor (Python using Statistical NLP)</li>
 </ul>
-⏳Upcoming Projects:
+⏳ Upcoming Projects:
 
 <ul>
   <br>
