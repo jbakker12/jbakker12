@@ -12,7 +12,7 @@
   <li>Wikipedia Article Suggestor (Python using Statistical NLP)</li>
 </ul>
 <br> ⏳Upcoming Projects:
-<br>
+
 <ul>
   <li>Communauto Ontario Comparison Calculators (HTML, JS, Bootstrap)</li>
 </ul>
