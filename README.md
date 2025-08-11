@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Jake:
-🧑🏻‍🎓 Studying <a href="https://www.mohawkcollege.ca/programs/technology/computer-systems-technology-software-development-559">Software Development</a> at Mohawk College (Year 2 of 3)
-<br>📧 jacob.bakker1@mohawkcollege.ca
+<br>📧 jake.bakker1@gmail.com
 
 🌱 Here's a brief summary of my current GitHub Projects:
 
