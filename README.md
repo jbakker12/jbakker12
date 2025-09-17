@@ -4,10 +4,7 @@
 🌱 Here's a brief summary of my current GitHub Projects:
 
 <ul>
-  <li>Bike Parts Inventory Webpage (React Native, Expo, Node.JS, SQLite)</li>
-  <li>Bike Parking Map (HTML,JS, Google Maps API)</li>
-  <li>Yahtzee Game (Java FX)</li>
-  <li>Wikipedia Article Suggestor (Python using Statistical NLP)</li>
+  <li>Hamilton Bike Lanes By Ward Website(React,HTML, CSS, JS, MapLibre)</li>
 </ul>
 ⏳ Upcoming Projects:
 
