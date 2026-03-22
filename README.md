@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Jake:
-<br>📧 jake.bakker1@gmail.com
 
 🌱 Here's a brief summary of my current GitHub Projects:
 
