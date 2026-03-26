@@ -3,13 +3,14 @@
 🌱 Here's a brief summary of my current GitHub Projects:
 
 <ul>
+  <li>Check out my portfolio site at [jake-bakker.ca](https://jake-bakker.ca) </li>
   <li>Hamilton Bike Lanes By Ward Website(React,HTML, CSS, JS, MapLibre)</li>
 </ul>
 ⏳ Upcoming Projects:
 
 <ul>
   <br>
-  <li>Communauto Ontario Comparison Calculators (HTML, JS, Bootstrap)</li>
+  <li>Hydrolodge Mobile App (React Native, Node.JS, SQLite)</li>
 </ul>
 
 ## 🌐 Socials:
