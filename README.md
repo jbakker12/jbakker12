@@ -3,7 +3,7 @@
 🌱 Here's a brief summary of my current GitHub Projects:
 
 * Check out my portfolio site at [jake-bakker.ca](https://jake-bakker.ca/)
-* Hamilton Bike Lanes By Ward Website(React,HTML, CSS, JS, MapLibre)
+* Hamilton Bike Lanes By Ward Website (React,HTML, CSS, JS, MapLibre)
 
 ⏳ Upcoming Projects:
 
