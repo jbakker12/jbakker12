@@ -2,16 +2,12 @@
 
 🌱 Here's a brief summary of my current GitHub Projects:
 
-<ul>
-  <li>Check out my portfolio site at [jake-bakker.ca](https://jake-bakker.ca) </li>
-  <li>Hamilton Bike Lanes By Ward Website(React,HTML, CSS, JS, MapLibre)</li>
-</ul>
+* Check out my portfolio site at [jake-bakker.ca](https://jake-bakker.ca/)
+* Hamilton Bike Lanes By Ward Website(React,HTML, CSS, JS, MapLibre)
+
 ⏳ Upcoming Projects:
 
-<ul>
-  <br>
-  <li>Hydrolodge Mobile App (React Native, Node.JS, SQLite)</li>
-</ul>
+* Hydrolodge Mobile App (React Native, Node.JS, SQLite)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jbakker12) 
