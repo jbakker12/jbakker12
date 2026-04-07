@@ -3,10 +3,12 @@
 🌱 Here's a brief summary of my current GitHub Projects:
 
 * Check out my portfolio site at [jake-bakker.ca](https://jake-bakker.ca/)
+* HydroLodge Companion App [Demo Video](https://studio.youtube.com/video/IfkEMB4L7tc/edit)
 * Hamilton Bike Lanes By Ward Website (React,HTML, CSS, JS, MapLibre)
 
 ⏳ Upcoming Projects:
-
+* AI-Powered RGB Wound Assessment for Infection Detection
+    * Project with Mohawk IDEAWORKS and Dexamedic
 * Hydrolodge Mobile App (React Native, Node.JS, SQLite)
 
 ## 🌐 Socials:
