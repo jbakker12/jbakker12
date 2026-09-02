@@ -2,7 +2,6 @@
 
 🌱 Here's a brief summary of my current GitHub Projects:
 
-* Check out my portfolio site at [jake-bakker.ca](https://jake-bakker.ca/)
 * HydroLodge Companion App [Demo Video](https://www.youtube.com/watch?v=IfkEMB4L7tc) (React Native, Node.js, SQLite)
 * Hamilton Bike Lanes By Ward Website (React,HTML, CSS, JS, MapLibre)
 
